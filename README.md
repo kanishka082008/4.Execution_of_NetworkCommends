@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+```
 Microsoft Windows [Version 10.0.26200.8246]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -149,6 +150,8 @@ Enter the new time:
 C:\Users\Subash>date
 The current date is: 02-05-2026
 Enter the new date: (dd-mm-yy)
+```
+
 
 ## Result
 Thus Execution of Network commands Performed 
